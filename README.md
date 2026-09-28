@@ -2,6 +2,10 @@
 
 <img src="https://iili.io/n5pEZFt.png" alt="Banner" width="100%">
 
+ ## 💚 Prints requeridos 💚
+
+<img src="https://iili.io/n5yoL91.png" alt="Banner" width="100%">
+
 ## 💚 Instruções de uso 💚
 
 <p><b>Desktop:</b></p>
